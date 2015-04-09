@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white_1">#ffbbbbbb</color>
+    <color name="transparent_background">#80000000</color>
+    <color name="transparent_home_background">#50000000</color>
+    <color name="lyric_highlight_color">#ff0000ff</color>
+    <color name="lyric_preview_color">#ff787878</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_common">#444444</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="light_blue">#4487d2</color>
+    <color name="orange">#ee9c3f</color>
+    
+    <color name="gray">#b4b4b4</color>
+    <color name="disable_gray">#9aa7c4</color>
+    <color name="red_selected">#ff2a14</color>
+    <color name="yellow">#f8d40a</color>
+    <color name="setting_et_hint_color">#9eb5f5</color>
+    <color name="gray_tip_highlight">#638ef6</color>
+
+    <!-- 菜单背景色 -->
+    <color name="menu_bg">#66835fff</color>
+
+    <!-- toast的背景色 -->
+    <color name="toast_bg">#e630302e</color>
+
+    <!-- dialog的颜色规范 -->
+    <color name="dialog_title_color">#ff2a14</color>
+    <color name="dialog_content_text_color">#ffffff</color>
+    <color name="dialog_gray">#808080</color>
+
+    <!-- 音准区域顶部分隔线条颜色 -->
+    <color name="intonation_rect_headline_color">#fcff540b</color>
+
+    <!-- 五线谱颜色 -->
+    <!-- <color name="intonation_staff_color">#c8787878</color> -->
+	<color name="intonation_staff_color">#a02d2d2d</color>
+
+    <!-- 音准条背景色 -->
+    <color name="pitch_backgroud_color">#e0151515</color>
+   <!--  <color name="intonation_backgroud_color">#7d151515</color> -->
+
+    <!-- 歌词背景色 -->
+    <!-- <color name="lyric_backgroud_color">#a00e0e0e</color> -->
+    <color name="lyric_backgroud_color">#f00e0e0e</color>
+
+    <!-- 当前歌词字体高亮色 -->
+    <color name="current_lyric_highlight_color">#ff0064ff</color>
+    
+    <!-- 当前歌词字体正常颜色 -->
+    <color name="current_lyric_normal_color">#ffffffff</color>
+
+    <!-- 预览歌词字体颜色 -->
+    <color name="preview_lyric_normal_color">#ff787878</color>
+
+    <!-- 音准评分过场弹出框旋律文本颜色 -->
+    <color name="dialog_grade_phase_melody_text_color">#f2e04a</color>
+
+    <!-- 音准评分过场弹出框高音文本颜色 -->
+    <color name="dialog_grade_phase_highpitch_text_color">#4ee525</color>
+
+    <!-- 音准评分过场弹出框音准文本颜色 -->
+    <color name="dialog_grade_phase_pitch_text_color">#f56ff1</color>
+    
+    <!-- 祝福语文字显示颜色 -->
+    <color name="osd_bless_text_coloar">#f56ff1</color>
+    <!-- 音量值颜色 -->
+    <color name="volumectrl_volume_value_text_color">#f8f8d40a</color>
+    
+    <!-- 菜单分割线颜色 -->
+    <color name="main_menu_space_line">#6c7c90</color>
+    
+     <!-- search keyboard -->
+    <color name="key_disable">#1affffff</color>
+    
+    <!-- 存储空间颜色 -->
+    <color name="blue_storage">#266ee7</color>
+    <color name="green_storage">#00c21e</color>
+    <color name="gray_storage">#424956</color>
+    <color name="gray_singer">#818faf</color>
+    <color name="gray_songbook_sn">#494d6d</color>
+    <color name="yellow_songbook">#d3d376</color>
+    <color name="red_songbook_dialog">#ff3211</color>
+    <color name="yellow_songbook_dialog">#fcd010</color>
+    <color name="red_song_list_highlight">#d43c31</color>
+    
+    <!-- 点歌 -->
+    <color name="yellow_song_name_highlight">#ff9d02</color>
+    
+    <!-- 歌单 -->
+    <color name="blue_song_menu">#799cf0</color>
+    
+	<!-- 已点列表歌曲数目颜色 -->
+	<color name="red_orderlist_count">#c10600</color>
+	
+	<!-- 已点已唱 -->
+	<color name = "selected_sung_text_gray">#4dffffff</color>
+	
+</resources>

@@ -1,0 +1,59 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zxh.demos"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <activity
+            android:name="com.zxh.demos.home.HomeActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.zxh.demos.helloworld.HelloWorldActivity" >
+        </activity>
+        <activity
+            android:name="com.zxh.demos.activity.LifeCycleActivity" >
+        </activity>
+        <activity
+            android:name="com.zxh.demos.activity.ElephantActivity" >
+        </activity>
+        <activity
+            android:name="com.zxh.demos.activity.MonkeyActivity"
+            android:theme="@android:style/Theme.Holo.Dialog" >
+        </activity>
+        <activity
+            android:name="com.zxh.demos.activity.RomeoActivity" >
+        </activity>
+        <activity
+            android:name="com.zxh.demos.activity.JulietActivity" >
+        </activity>
+        <activity
+            android:name="com.zxh.demos.service.StartServiceActivity" >
+        </activity>
+        
+        
+        
+        <service 
+            android:name="com.zxh.demos.service.SimpleStartService">
+        </service>
+        <service 
+            android:name="com.zxh.demos.service.SimpleBindService">
+        </service>
+        
+    </application>
+
+</manifest>

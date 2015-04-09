@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:id="@+id/start_activity_explicitly"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="start_activity_explicitly"
+        />
+    
+    <Button 
+        android:id="@+id/start_activity_implicity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="start_activity_implicity"
+        />
+    
+    <Button 
+        android:id="@+id/start_full_screen_ac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="start_full_screen_ac"
+        />
+    
+    <Button 
+        android:id="@+id/start_dialog_style_ac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="start_dialog_style_ac"
+        />
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- toast内容的字体大小 -->
+    <dimen name="toast_text_size">33dip</dimen>
+    
+    <!-- toast -->
+    <dimen name="toast_width">567dp</dimen>
+    <dimen name="toast_height">167dp</dimen>
+    
+</resources>
